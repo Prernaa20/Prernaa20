@@ -4,7 +4,7 @@
 
 I'm a Computer Science student at Lovely Professional University passionate about turning raw data into meaningful insights. I build data dashboards, AI-powered apps, and enjoy solving analytical problems with Python and Power BI.
 
-📫 [LinkedIn](https://www.linkedin.com/in/prernaagrawal20/) · [GitHub](https://github.com/Prernaa20) · agrawalprerna2005@gmail.com
+   [LinkedIn](https://www.linkedin.com/in/prernaagrawal20/) · [GitHub](https://github.com/Prernaa20) · agrawalprerna2005@gmail.com
 
 ---
 
